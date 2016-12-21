@@ -1,13 +1,9 @@
-##### [Google Tag Manager Python API](https://developers.google.com/tag-manager/api/v1/devguide)
+#### [Google Tag Manager Python API](https://developers.google.com/tag-manager/api/v1/devguide)
 
 Create javascript snippet code for your Google Tag Manager by providing your Site Name, Site URL
 and Google Analytics Tracking code. This project creates [Universal Analytics](https://support.google.com/analytics/answer/2790010?hl=en) Tag so Tracking Code format must be like **UA-xxxxxx-xx**
 
-<br/>
-##### Enable Google Tag Manager API
-[Enable Google Tag Manager API](https://console.developers.google.com/start/api?id=tagmanager&credential=client_key)
 
-<br/>
 ##### Make required changes in settings.py
 ```python
 # enable/disable sending javascript code snippet in email.
@@ -28,24 +24,20 @@ TIME_ZONE_ID = 'America/Los_Angeles'
 GOOGLE_TAG_USAGE_CONTEXT = ['web']
 ```
 
-<br/>
 ##### Switch to project root directory and Install dependencies from requirements.txt file
 ```
 pip install -r requirements.txt
 ```
 
-<br/>
 ##### What command do i need to execute?
 ```
 # simply run from the command line
 python index.py --site_name MY_SITE_NAME --site_url MY_SITE_URL --tracking_id MY_ANALYTICS_TRACKING_CODE
 ```
 
-<br/>
 ##### What do you get?
 ![Google Tag Manager Preview](https://lh3.googleusercontent.com/GvTbfvMvxSjJo_C24rfaLvvSftvmlTL0ZGHcrdU3y9LT_XDbIqwaJMNySpM-X_jTfjG_km_-FTqhhb0VjpAtHWVg5QeDLoPTymdYC3s5hT6WPM7ad0IADJW1ToHkLZLqTiks_h1HDoCYcYfmVjdcewy-OGnwYNeTRrLoeDEwchWG71iWS8nUFcmDNuaVYC8mXiptu-z1d6xfqsPcLWy2XUCbQdcq2vDg2F4zVFEasb5p4YCmfoYfLOVWFbtJOy3W7omJMICuHlr2AMnVpOvEMs3y-EgADBN5El5GtJSmJiDWr1uoeAl3rcC93ftCd2OLc7TTNtQdU4a8t1X_iPDYQ34FH6FEBaJCNnHINSwxQhkCHjWLxFxNXmjhE79WONnqxDeJ7U9pX7DmGuEM4LNbCeWr5ilz9B6uigL0xVd8NLmd9bxBl1luJVueVtSdFTwqSOLbsfD0eoQc71oN03f0n-06AR6XqDWMXMF9atOv7AiE0-6D4X23xEQJIvhrWeSLUi9V_qhyq3qNNWEqVA8uMO7cqm4KfMS8cDqu27EGIwqPjeJX_mY342RxHn2AIFMz9BEWomcUabvJZIz8C5nzDbEtD5diL5KJjefDg9H0cB3DXcAE=w1076-h581-no)
 
-<br/>
 ##### Tested Environment
 ```
 Python 2.7
@@ -53,4 +45,3 @@ Python 3.4
 Google Tag Manager API Version 1
 Ubuntu 14.04
 ```
-
