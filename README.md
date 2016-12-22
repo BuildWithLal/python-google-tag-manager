@@ -43,7 +43,7 @@ python index.py --site_name MY_SITE_NAME --site_url MY_SITE_URL --tracking_id MY
 
 <br/>
 ##### What do you get?
-![Google Tag Manager Preview](https://lh3.googleusercontent.com/GvTbfvMvxSjJo_C24rfaLvvSftvmlTL0ZGHcrdU3y9LT_XDbIqwaJMNySpM-X_jTfjG_km_-FTqhhb0VjpAtHWVg5QeDLoPTymdYC3s5hT6WPM7ad0IADJW1ToHkLZLqTiks_h1HDoCYcYfmVjdcewy-OGnwYNeTRrLoeDEwchWG71iWS8nUFcmDNuaVYC8mXiptu-z1d6xfqsPcLWy2XUCbQdcq2vDg2F4zVFEasb5p4YCmfoYfLOVWFbtJOy3W7omJMICuHlr2AMnVpOvEMs3y-EgADBN5El5GtJSmJiDWr1uoeAl3rcC93ftCd2OLc7TTNtQdU4a8t1X_iPDYQ34FH6FEBaJCNnHINSwxQhkCHjWLxFxNXmjhE79WONnqxDeJ7U9pX7DmGuEM4LNbCeWr5ilz9B6uigL0xVd8NLmd9bxBl1luJVueVtSdFTwqSOLbsfD0eoQc71oN03f0n-06AR6XqDWMXMF9atOv7AiE0-6D4X23xEQJIvhrWeSLUi9V_qhyq3qNNWEqVA8uMO7cqm4KfMS8cDqu27EGIwqPjeJX_mY342RxHn2AIFMz9BEWomcUabvJZIz8C5nzDbEtD5diL5KJjefDg9H0cB3DXcAE=w1076-h581-no)
+![Google Tag Manager Preview](http://i.imgur.com/nV4CFVl.png)
 
 <br/>
 ##### Tested Environment
